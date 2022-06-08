@@ -94,8 +94,8 @@ h2.subhead  {
 #homecaro4 {margin-top: 20px;}
 .para1 {margin-top: 80px;
 margin-bottom: 80px;
-padding-top: 80px;
-padding-bottom: 80px;
+padding-top: 170px;
+padding-bottom: 170px;
 background: url(../img/para1.jpg);
 background-size: cover;
 background-attachment: fixed;
@@ -453,7 +453,7 @@ border-right: 1px solid transparent !important;
     padding: 0;
 }
 .blog-search .search-sub {background-color: #3A2300!important;}
-body {color: #fff!important;}
+body {color: #000!important;}
 #below-main-boxes{float: left;margin-top: 25px;width:100%;}
 .row.travel-grid {margin-bottom: 40px!important;}
 .text-box .title { 
@@ -3190,7 +3190,7 @@ span.terms_conditions_text, .terms_conditions_error span.terms_conditions_text, 
     .welcome h2 {
         font-size: 33px !important;
         font-weight: 700 !important;
-        color: #fff !important;
+        color: #153120 !important;
     }
     #part_search_form .search-input {
         left: 15px;

@@ -212,6 +212,7 @@ h2{
 
 .section-head p{
     color:#000 !important;
+    text-align:center;
 }
 
 .spacer{
@@ -329,6 +330,19 @@ h2{
 
 .about-spacer{
     padding-top:15px;
+}
+
+@media (max-width: 767px){
+    .about-img {
+        width:50%;
+        }
+    .plain{
+        padding-bottom:60px;
+    }
+
+    #slider.sitemessage{
+        margin-bottom:25px;
+    }
 }
 
 /************** Contact *****************/

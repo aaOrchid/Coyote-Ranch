@@ -176,7 +176,6 @@ div#ms-list-1 {
 @media(max-width:767px) {
     p {
         font-size: 15px;
-        text-align: justify;
     }
     ul.submenu.product_list_widget {
         max-height: 320px;
